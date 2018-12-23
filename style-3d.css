@@ -1,0 +1,21 @@
+body {background:url("C:/web-tutorial/images/makoto.jpg") no-repeat;}
+#wrapper {margin:auto; width:1024px; background:#A6CCFF; border:10px white solid; font-size:medium;}
+header,nav,article,section,footer {display:block;}
+header {margin-top:0; width:1024px; border-bottom:10px white solid; height:212px; background:url("C:/web-tutorial/images/tokyo_city3.jpg") no-repeat;}
+h1 {position:absolute; top:45px; margin-left:30px; font-size:40pt; color:khaki; font-weight:bold; text-shadow: 4px 4px black;}
+h2 {font-size:18pt; text-align:center;}
+p {font-size:14pt; text-align:center;}
+a {font-size:14pt;}
+nav {float:left; width:150px; height:190px;}
+#rightcol {float:right; width:150px; height:190px;}
+#midcol {margin-left:155px; margin-right:155px;}
+br.clear {clear:both}
+#midcol-left {float:left; width:46%; font-weight:bold;}
+#midcol-right {float:right; width:50%; font-weight:bold;}
+nav ul {float:left; width:150px; margin-left:10px; padding-left:0; list-style-type:none;}
+li.btn {width:115px; line-height:20px; margin-bottom:3px; text-align:center;}
+li.btn a {display:block; width:115px; color:white; font-family:arial; font-size:small;
+font-weight:bold; text-decoration:none;}
+li.btn a {background:#1A9CE0; border:4px outset #AABAFF;}
+li.btn a:hover {background:#0A4ADF; border:4px outset #8ABAFF;}
+li.btn a:active {background:#AECBFF; border:4px inset #AECBFF;}
