@@ -1,7 +1,7 @@
-body {background:url("C:/web-tutorial/images/makoto.jpg") no-repeat;}
+body {background:url("https:TurnerWill.github.io/makoto.jpg") no-repeat;}
 #wrapper {margin:auto; width:1024px; background:#A6CCFF; border:10px white solid; font-size:medium;}
 header,nav,article,section,footer {display:block;}
-header {margin-top:0; width:1024px; border-bottom:10px white solid; height:212px; background:url("C:/web-tutorial/images/tokyo_city3.jpg") no-repeat;}
+header {margin-top:0; width:1024px; border-bottom:10px white solid; height:212px; background:url("https://TurnerWill.github.io/tokyo_city3.jpg") no-repeat;}
 h1 {position:absolute; top:45px; margin-left:30px; font-size:40pt; color:khaki; font-weight:bold; text-shadow: 4px 4px black;}
 h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
