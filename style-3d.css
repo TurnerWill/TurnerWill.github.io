@@ -7,7 +7,7 @@ h2 {font-size:18pt; text-align:center;}
 p {font-size:14pt; text-align:center;}
 a {font-size:14pt;}
 nav {float:left; width:150px; height:190px;}
-#rightcol {float:right; width:150px; height:190px;}
+#rightcol {float:right; width:150px; height:190px; margin-left:155px;}
 #midcol {margin-left:155px; margin-right:155px;}
 br.clear {clear:both}
 #midcol-left {float:left; width:46%; font-weight:bold;}
